@@ -1,0 +1,22 @@
+Apresentação
+Lógica + Dados
+Inputs
+Networking
+10/12
+
+quadtree colisoes
+
+Racing game
+Labirinth game (maze) Dark, shaded
+Crossing road game
+
+balls hitting each other and falling off a cliff
+bomberman - granadier (5 habilities: speed (timer), kick, multiple bombs, shield, huge explosions)
+end of the world, street cars falling, you need to dodge
+pacman, who gets more, you can hit an enemy
+Write the word on keyboard, you can hit an enemy
+tag game + hot potato
+zombie from zombiecide, destroy the floor
+dRAW A LINE, THE MOST OFF DRINKS
+
+

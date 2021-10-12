@@ -1,11 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MiniGameTopView</title>
-</head>
-<body>
-    <h1>Hello World!</h1>
-</body>
+<html>
+  <head>
+    <title>TopViewArena</title>
+    <style>
+      *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        background: rgb(133,124,141);
+      }
+      body{
+        display: flex;
+        flex-direction: column;
+      }
+      canvas{
+        align-self: center;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="gameScreen" width="1280" height="720"></canvas>
+    <div id="bola" style="position: absolute; background: rgba(0,0,0,0.4); top:70%; right: 20%; z-index: 99; width:80; height: 80px;border-radius: 40px;">
+      
+    </div>
+    <script src="main.js" type="module"></script>
+    
+  </body>
 </html>
